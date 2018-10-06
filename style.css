@@ -1,0 +1,27 @@
+#header {
+	background-color: #3ff763;
+	color: red;
+	text-align: center;
+	text-shadow: 3px 2px #313131;
+	padding: 5px;
+	font-size: 170%;
+	border-radius: 100px;
+}
+#text {
+	border-radius: 50px;
+	padding: 20px;
+	text-shadow: 3px 2px #313131;
+	font-size: 200%;
+	color: white
+}
+#pic {
+	width: 300px;
+	float: right;
+	display: block;
+	margin: auto;
+	padding: 20px;
+	float: left;
+
+	
+
+}
